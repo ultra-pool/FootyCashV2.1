@@ -1,3 +1,10 @@
+Ultra-Pool - a.k.a Repo (updated by FootyCash Community July 19 2018)
+=================================================================================
+Updated seednode connections to allow US based investors to connect to the network better.
+
+FootyCash will be rebranded to Fantasy Cash very soon
+=================================================================================
+
 
 FootyCash development tree
 
